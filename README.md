@@ -15,7 +15,10 @@ A lightweight, print‑ready résumé built with **pure HTML + CSS**.
 ```
 index.html   # résumé content
 style.css    # theme, layout, print styles
+me.jpj       # that's me
 README.md    # this file
+CV.pdf       # the PDF version of the CV
+
 ```
 
 ## Credits
@@ -23,6 +26,6 @@ Design & code by **Raul Annaloro**.
 Theme elements adapted from **AgonActive** (my personal project).
 
 ## Contact
-- Email: [raul.annaloro@outlook.it](mailto:raul.annaloro@outlook.it)
+- Email: [raul.annaloro@outlook.it]
 
 © 2025 Raul Annaloro. All rights reserved.
