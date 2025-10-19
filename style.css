@@ -184,3 +184,34 @@ body {
   .site-header, .nav { position: static; background: #fff; }
   .card { box-shadow: none !important; border: 1px solid #e5e5e5; }
 }
+
+@media print {
+
+  * { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+  .card { box-shadow: none !important; }
+
+  .skills li { 
+    grid-template-columns: 1fr 150px; 
+  }
+
+  .meter {
+    position: relative;
+    background: #fff !important;   
+    border: 1px solid #333 !important;
+  }
+
+  .meter::after {
+    background: #111 !important;    
+  }
+
+  .meter::before {
+    content: attr(data-level) "%";
+    position: absolute;
+    right: 6px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 11px;
+    color: #111;
+  }
+}
