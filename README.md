@@ -1,4 +1,4 @@
-# CV Raul Annaloro
+# Raul Annaloro's resume
 
 A lightweight, print‑ready résumé built with **pure HTML + CSS**.
 
