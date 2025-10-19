@@ -23,7 +23,7 @@ CV.pdf       # the PDF version of the CV
 
 ## Credits
 Design & code by **Raul Annaloro**.  
-Theme elements adapted from **AgonActive** (my personal project).
+Layout and theme elements adapted from **AgonActive** (my personal project).
 
 ## Contact
 - Email: [raul.annaloro@outlook.it]
