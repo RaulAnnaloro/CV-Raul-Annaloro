@@ -29,3 +29,4 @@ Theme elements adapted from **AgonActive** (my personal project).
 - Email: [raul.annaloro@outlook.it]
 
 © 2025 Raul Annaloro. All rights reserved.
+No unauthorized copying, distribution, or reuse of this CV and its design.
