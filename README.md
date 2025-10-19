@@ -18,14 +18,6 @@ style.css    # theme, layout, print styles
 README.md    # this file
 ```
 
-## Local Preview
-Just open **`index.html`** in your browser.
-
-## Deploy (quick options)
-- **Netlify**: drag & drop the folder.
-- **GitHub Pages**: upload the files to a repo and enable Pages (root).
-- **Vercel**: import as a static project with `index.html` at the root.
-
 ## Credits
 Design & code by **Raul Annaloro**.  
 Theme elements adapted from **AgonActive** (my personal project).
